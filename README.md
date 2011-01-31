@@ -1,6 +1,6 @@
 ## mocha-color
 
-Default mocha output is hard to read sometimes, mainly when there are lots of expectations. mocha-color colorize some pieces of that output, helping you to get your expectations fixed easier.
+Default mocha output is hard to read sometimes, mainly when there are lots of expectations. mocha-color colorize some pieces of that output, helping you to get your expectations fixed more quickly.
 
 ## Installation
 
